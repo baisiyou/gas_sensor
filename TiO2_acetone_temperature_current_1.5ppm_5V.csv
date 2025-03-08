@@ -1,0 +1,16 @@
+﻿Temperature(°C),Current(μA),Response Characteristics,Working Conditions,Current Change Rate,Relative Response Intensity,Sensitivity(μA/ppm)
+100,0.25,Physical desorption begins,"1.5 ppm acetone, 5V working voltage",0.388888889,0.008650519,0.166666667
+125,0.45,Transition region,"1.5 ppm acetone, 5V working voltage",0.8,0.015570934,0.3
+150,0.85,Chemical adsorption becomes significant,"1.5 ppm acetone, 5V working voltage",0.888888889,0.029411765,0.566666667
+175,1.65,Chemical adsorption region,"1.5 ppm acetone, 5V working voltage",0.941176471,0.057093426,1.1
+200,2.95,Optimal chemical adsorption temperature,"1.5 ppm acetone, 5V working voltage",0.787878788,0.102076125,1.966666667
+225,4.8,Transition from chemical adsorption to surface reaction,"1.5 ppm acetone, 5V working voltage",0.627118644,0.166089965,3.2
+250,7.25,Surface reaction begins,"1.5 ppm acetone, 5V working voltage",0.510416667,0.250865052,4.833333333
+275,10.4,Surface reaction enhancement,"1.5 ppm acetone, 5V working voltage",0.434482759,0.359861592,6.933333333
+300,15.8,Significant surface reaction,"1.5 ppm acetone, 5V working voltage",0.519230769,0.546712803,10.53333333
+325,22.5,Approaching optimal reaction temperature,"1.5 ppm acetone, 5V working voltage",0.424050633,0.778546713,15
+350,28.9,Optimal surface reaction temperature,"1.5 ppm acetone, 5V working voltage",0.284444444,1,19.26666667
+375,20.45,Activity begins to decline,"1.5 ppm acetone, 5V working voltage",-0.292387543,0.707612457,13.63333333
+400,14.6,Complete oxidation region,"1.5 ppm acetone, 5V working voltage",-0.28606357,0.505190311,9.733333333
+425,10.2,Continued activity decline,"1.5 ppm acetone, 5V working voltage",-0.301369863,0.352941176,6.8
+450,7.8,Near deactivation temperature,"1.5 ppm acetone, 5V working voltage",-0.235294118,0.269896194,5.2
